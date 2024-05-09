@@ -1,0 +1,240 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\orkha\\OneDrive\\Masa\u00FCst\u00FC\\MultiShop-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7FDF398A-1286-4CC7-841C-A7B37BF40039}|MultiShop\\MultiShop.csproj|c:\\users\\orkha\\onedrive\\masa\u00FCst\u00FC\\multishop-master\\multishop\\areas\\admin\\views\\slider\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7FDF398A-1286-4CC7-841C-A7B37BF40039}|MultiShop\\MultiShop.csproj|solutionrelative:multishop\\areas\\admin\\views\\slider\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FDF398A-1286-4CC7-841C-A7B37BF40039}|MultiShop\\MultiShop.csproj|c:\\users\\orkha\\onedrive\\masa\u00FCst\u00FC\\multishop-master\\multishop\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7FDF398A-1286-4CC7-841C-A7B37BF40039}|MultiShop\\MultiShop.csproj|solutionrelative:multishop\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FDF398A-1286-4CC7-841C-A7B37BF40039}|MultiShop\\MultiShop.csproj|c:\\users\\orkha\\onedrive\\masa\u00FCst\u00FC\\multishop-master\\multishop\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7FDF398A-1286-4CC7-841C-A7B37BF40039}|MultiShop\\MultiShop.csproj|solutionrelative:multishop\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FDF398A-1286-4CC7-841C-A7B37BF40039}|MultiShop\\MultiShop.csproj|c:\\users\\orkha\\onedrive\\masa\u00FCst\u00FC\\multishop-master\\multishop\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7FDF398A-1286-4CC7-841C-A7B37BF40039}|MultiShop\\MultiShop.csproj|solutionrelative:multishop\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FDF398A-1286-4CC7-841C-A7B37BF40039}|MultiShop\\MultiShop.csproj|c:\\users\\orkha\\onedrive\\masa\u00FCst\u00FC\\multishop-master\\multishop\\areas\\admin\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FDF398A-1286-4CC7-841C-A7B37BF40039}|MultiShop\\MultiShop.csproj|solutionrelative:multishop\\areas\\admin\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FDF398A-1286-4CC7-841C-A7B37BF40039}|MultiShop\\MultiShop.csproj|c:\\users\\orkha\\onedrive\\masa\u00FCst\u00FC\\multishop-master\\multishop\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7FDF398A-1286-4CC7-841C-A7B37BF40039}|MultiShop\\MultiShop.csproj|solutionrelative:multishop\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FDF398A-1286-4CC7-841C-A7B37BF40039}|MultiShop\\MultiShop.csproj|c:\\users\\orkha\\onedrive\\masa\u00FCst\u00FC\\multishop-master\\multishop\\views\\product\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7FDF398A-1286-4CC7-841C-A7B37BF40039}|MultiShop\\MultiShop.csproj|solutionrelative:multishop\\views\\product\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FDF398A-1286-4CC7-841C-A7B37BF40039}|MultiShop\\MultiShop.csproj|C:\\Users\\orkha\\OneDrive\\Masa\u00FCst\u00FC\\MultiShop-master\\multishop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FDF398A-1286-4CC7-841C-A7B37BF40039}|MultiShop\\MultiShop.csproj|solutionrelative:multishop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FDF398A-1286-4CC7-841C-A7B37BF40039}|MultiShop\\MultiShop.csproj|C:\\Users\\orkha\\OneDrive\\Masa\u00FCst\u00FC\\MultiShop-master\\multishop\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7FDF398A-1286-4CC7-841C-A7B37BF40039}|MultiShop\\MultiShop.csproj|solutionrelative:multishop\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FDF398A-1286-4CC7-841C-A7B37BF40039}|MultiShop\\MultiShop.csproj|C:\\Users\\orkha\\OneDrive\\Masa\u00FCst\u00FC\\MultiShop-master\\multishop\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7FDF398A-1286-4CC7-841C-A7B37BF40039}|MultiShop\\MultiShop.csproj|solutionrelative:multishop\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FDF398A-1286-4CC7-841C-A7B37BF40039}|MultiShop\\MultiShop.csproj|C:\\Users\\orkha\\OneDrive\\Masa\u00FCst\u00FC\\MultiShop-master\\multishop\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7FDF398A-1286-4CC7-841C-A7B37BF40039}|MultiShop\\MultiShop.csproj|solutionrelative:multishop\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FDF398A-1286-4CC7-841C-A7B37BF40039}|MultiShop\\MultiShop.csproj|C:\\Users\\orkha\\OneDrive\\Masa\u00FCst\u00FC\\MultiShop-master\\multishop\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FDF398A-1286-4CC7-841C-A7B37BF40039}|MultiShop\\MultiShop.csproj|solutionrelative:multishop\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FDF398A-1286-4CC7-841C-A7B37BF40039}|MultiShop\\MultiShop.csproj|C:\\Users\\orkha\\OneDrive\\Masa\u00FCst\u00FC\\MultiShop-master\\multishop\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7FDF398A-1286-4CC7-841C-A7B37BF40039}|MultiShop\\MultiShop.csproj|solutionrelative:multishop\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\orkha\\OneDrive\\Masa\u00FCst\u00FC\\MultiShop-master\\MultiShop\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
+              "RelativeDocumentMoniker": "MultiShop\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
+              "ToolTip": "C:\\Users\\orkha\\OneDrive\\Masa\u00FCst\u00FC\\MultiShop-master\\MultiShop\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
+              "RelativeToolTip": "MultiShop\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-09T20:31:43.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\orkha\\OneDrive\\Masa\u00FCst\u00FC\\MultiShop-master\\MultiShop\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "MultiShop\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\orkha\\OneDrive\\Masa\u00FCst\u00FC\\MultiShop-master\\MultiShop\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "MultiShop\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-09T20:25:58.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\orkha\\OneDrive\\Masa\u00FCst\u00FC\\MultiShop-master\\MultiShop\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "MultiShop\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\orkha\\OneDrive\\Masa\u00FCst\u00FC\\MultiShop-master\\MultiShop\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "MultiShop\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-09T20:25:44.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\orkha\\OneDrive\\Masa\u00FCst\u00FC\\MultiShop-master\\MultiShop\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MultiShop\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\orkha\\OneDrive\\Masa\u00FCst\u00FC\\MultiShop-master\\MultiShop\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MultiShop\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFMAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-09T20:23:35.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SliderController.cs",
+              "DocumentMoniker": "C:\\Users\\orkha\\OneDrive\\Masa\u00FCst\u00FC\\MultiShop-master\\MultiShop\\Areas\\Admin\\Controllers\\SliderController.cs",
+              "RelativeDocumentMoniker": "MultiShop\\Areas\\Admin\\Controllers\\SliderController.cs",
+              "ToolTip": "C:\\Users\\orkha\\OneDrive\\Masa\u00FCst\u00FC\\MultiShop-master\\MultiShop\\Areas\\Admin\\Controllers\\SliderController.cs",
+              "RelativeToolTip": "MultiShop\\Areas\\Admin\\Controllers\\SliderController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T20:22:52.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\orkha\\OneDrive\\Masa\u00FCst\u00FC\\MultiShop-master\\MultiShop\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "MultiShop\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\orkha\\OneDrive\\Masa\u00FCst\u00FC\\MultiShop-master\\MultiShop\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "MultiShop\\ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-09T20:22:11.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\orkha\\OneDrive\\Masa\u00FCst\u00FC\\MultiShop-master\\MultiShop\\Views\\Product\\Detail.cshtml",
+              "RelativeDocumentMoniker": "MultiShop\\Views\\Product\\Detail.cshtml",
+              "ToolTip": "C:\\Users\\orkha\\OneDrive\\Masa\u00FCst\u00FC\\MultiShop-master\\MultiShop\\Views\\Product\\Detail.cshtml",
+              "RelativeToolTip": "MultiShop\\Views\\Product\\Detail.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-09T20:21:25.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\orkha\\OneDrive\\Masa\u00FCst\u00FC\\MultiShop-master\\MultiShop\\Program.cs",
+              "RelativeDocumentMoniker": "MultiShop\\Program.cs",
+              "ToolTip": "C:\\Users\\orkha\\OneDrive\\Masa\u00FCst\u00FC\\MultiShop-master\\MultiShop\\Program.cs",
+              "RelativeToolTip": "MultiShop\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T20:21:25.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\orkha\\OneDrive\\Masa\u00FCst\u00FC\\MultiShop-master\\MultiShop\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MultiShop\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\orkha\\OneDrive\\Masa\u00FCst\u00FC\\MultiShop-master\\MultiShop\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MultiShop\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T20:21:25.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\orkha\\OneDrive\\Masa\u00FCst\u00FC\\MultiShop-master\\MultiShop\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MultiShop\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\orkha\\OneDrive\\Masa\u00FCst\u00FC\\MultiShop-master\\MultiShop\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MultiShop\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-09T20:21:25.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\orkha\\OneDrive\\Masa\u00FCst\u00FC\\MultiShop-master\\MultiShop\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "MultiShop\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\orkha\\OneDrive\\Masa\u00FCst\u00FC\\MultiShop-master\\MultiShop\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "MultiShop\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADoBAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-09T20:21:25.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\orkha\\OneDrive\\Masa\u00FCst\u00FC\\MultiShop-master\\MultiShop\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "MultiShop\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\orkha\\OneDrive\\Masa\u00FCst\u00FC\\MultiShop-master\\MultiShop\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "MultiShop\\Views\\Product\\Index.cshtml",
+              "ViewState": "AQIAAJAAAAAAAAAAAAAgwKgAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-09T20:21:25.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\orkha\\OneDrive\\Masa\u00FCst\u00FC\\MultiShop-master\\MultiShop\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "MultiShop\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\orkha\\OneDrive\\Masa\u00FCst\u00FC\\MultiShop-master\\MultiShop\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "MultiShop\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-09T20:21:25.87Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
